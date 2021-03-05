@@ -4,7 +4,7 @@
 	"dependencies": {
 		"@fundamend/config-remark-lint": "^0.0.0",
 		"@fundamend/config-remark-retext": "^0.0.0",
-		"remark-frontmatter": "^2.0.0"
+		"remark-frontmatter": "^3.0.0"
 	},
 	"devDependencies": {
 		"@fundamend/config-eslint": "^0.0.0",
@@ -13,7 +13,7 @@
 		"eslint": "^7.2.0",
 		"lint-staged": "^10.2.11",
 		"prettier": "^2.0.5",
-		"remark-cli": "^8.0.0",
+		"remark-cli": "^9.0.0",
 		"rimraf": "^3.0.2"
 	},
 	"license": "MIT",
